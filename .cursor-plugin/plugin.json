@@ -1,0 +1,31 @@
+{
+  "name": "jamie",
+  "displayName": "Jamie",
+  "version": "1.0.0",
+  "description": "Search your Jamie meeting notes, transcripts, and action items, and ground coding work in what was decided in meetings.",
+  "author": {
+    "name": "Jamie",
+    "email": "support@meetjamie.ai"
+  },
+  "homepage": "https://docs.meetjamie.ai/integrations/mcp",
+  "repository": "https://github.com/meetjamie/jamie-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "jamie",
+    "meetings",
+    "meeting-notes",
+    "transcripts",
+    "summaries",
+    "action-items",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "jamie",
+    "meetings",
+    "mcp",
+    "transcripts"
+  ],
+  "mcpServers": "./mcp.json"
+}
